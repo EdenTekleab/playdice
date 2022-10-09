@@ -14,14 +14,8 @@ body {
   background-color: #393E46;
 }
 
-h1 {
-  margin: 30px;
-  font-family: 'Lobster', cursive;
-  text-shadow: 5px 0 #232931;
-  font-size: 8rem;
-  color: #4ECCA3;
-}
-.refresh {margin:0 500px ;
+
+.refresh {margin:0 400px ;
 font-family: 'Lobster', cursive;
 text-shadow: 4px 0 #232931;
 font-size: 2rem;

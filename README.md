@@ -1,7 +1,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Dicee</title>
+    <title>Dice</title>
     <link rel="stylesheet" href="styles.css">
     <link href="https://fonts.googleapis.com/css?family=Indie+Flower|Lobster" rel="stylesheet">
 
@@ -10,7 +10,6 @@
 
 <input type="button" class="refresh" value="click here to play" onclick="location.href=location.href" />
     <div class="container">
-      <h1>Refresh Me</h1>
 
       <div class="dice">
         <p>Player 1</p>
